@@ -1,0 +1,9 @@
+error msg when uploading the user details to firebase.
+(only image was not uploaded)
+
+I/flutter ( 7731): Upload is 0.0% complete.
+I/flutter ( 7731): Firebase Exception: No object exists at the desired reference.
+E/flutter ( 7731): [ERROR:flutter/runtime/dart_vm_initializer.cc(41)] Unhandled Exception: [firebase_storage/object-not-found] No object exists at the desired reference.
+E/flutter ( 7731):
+I/flutter ( 7731): User info added successfully!
+Application finished.

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468643813285",
+    "project_id": "hopify-e69fe",
+    "storage_bucket": "hopify-e69fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468643813285:android:7bf8504d3d3bee1dc17a4c",
+        "android_client_info": {
+          "package_name": "com.example.hopify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO4VWcabPxLQeRZon_V_ci9QtJRBCtWIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
